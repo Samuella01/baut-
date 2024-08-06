@@ -1,0 +1,38 @@
+p{
+    color: brown;
+}
+#zoro{
+    color: blue;
+}
+.luffy{
+    color: red;
+    text-align: center;
+    background-color: rgb(225, 135, 17);
+}
+.py{
+    font-size: 10vh;
+    font-style: 5vh;
+    text-shadow: 1px 2px solid brown;
+}
+.suji{
+    font-weight: bold;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+.red{
+    width: 30%;
+    height: 10vh;
+}
+button:hover{
+    color: brown;
+
+}
+a:visited{
+    color: brown;
+
+}
+input:focus{
+    
+}

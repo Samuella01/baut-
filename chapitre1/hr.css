@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+}
+section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu{
+    width: 75%;
+    height: 60vh;
+    justify-content: space-between;
+}
+.menu1{
+    width: 23%;
+    height: 45vh;
+    border-radius: 16px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.menu1__nav{
+    width: 100%;
+    height: 5vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(234, 131, 91);
+}
+.menu2__nav{
+    width: 100%;
+    height: 5vh;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(234, 131, 91);;
+}
+.menu3__nav{
+    width: 100%;
+    height: 5vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(221, 72, 229);
+}
+.menu4__nav{
+    width: 100%;
+    height: 5vh;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(221, 72, 229);
+}
+.menu5__nav{
+    width: 100%;
+    height: 5vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(169, 66, 224);
+}
+.menu6__nav{
+    width: 100%;
+    height: 5vh;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(169, 66, 224);
+}
+.menu7__nav{
+    width: 100%;
+    height: 5vh;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: rgb(64, 133, 236);
+}
+.menu8__nav{
+    width: 100%;
+    height: 5vh;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: rgb(64, 133, 236);
+}
+.menu9__nav{
+    width: 100%;
+    height: 81%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.menu9__nav1{
+    width: 30%;
+    height: 20%;
+   border: 1px solid black;
+   border-radius: 110px;
+}
+.menu9__nav2{
+    width: 80%;
+    height: 9%;
+    text-align: center;
+}
+.menu9__nav3{
+    width: 80%;
+    height: 53%;
+    text-align: center;
+}
+.style1{
+    color: rgb(234, 131, 91);
+    font-size: 18px;
+    margin: 0;
+}
+p{
+    margin: 0;
+}
+.style2{
+    color: rgb(221, 72, 229);
+    font-size: 18px;
+    margin: 0;
+}
+.style3{
+    color:  rgb(169, 66, 224);
+    font-size: 18px;
+    margin: 0;
+}
+.style4{
+    color: rgb(64, 133, 236);
+    font-size: 18px;
+    margin: 0;
+}
+
+

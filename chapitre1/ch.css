@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+}
+main{
+    width: 97%;
+    margin: auto;
+}
+.menu-bar{
+    height: 15vh;
+    width: 100%;
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu-bar__logo{
+    height: 80%;
+    width: 15%;
+    background-color: bisque ;
+}
+.menu-bar__nav{
+    height: 80%;
+    width: 40%;
+    background-color: aquamarine;
+}
+.menu-bar__nav__main-nav{
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+}
+.menu-bar__nav__main-nav ul{
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+.ban{
+    height: 68vh;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ban-text{
+    width: 43%;
+    height: 90%;
+    background-color: black;
+}
+.ban-img{
+    width: 43%;
+    height: 90%;
+    background-color: blueviolet;
+}
+.exploration{
+    height: 17vh;
+    width: 100%;
+    background-color: rgb(37, 90, 235);
+    display: flex;
+    align-items: center;
+}
+.exploration article{
+    height: 80%;
+    width: 20%;
+    background-color: blanchedalmond;
+}

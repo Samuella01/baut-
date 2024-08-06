@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.G-card{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.M-card{
+    width: 88%;
+    height: 88vh;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.M-card__G{
+    width: 65%;
+    height: 60vh;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 25px;
+    
+}
+.M-card__G1{
+    width: 90%;
+    height: 75%;
+    margin-left: -8%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+}
+.M-card__G2{
+    width: 3%;
+    height: 10%;
+    background-color: rgb(155, 155, 39);
+}
+.M-card__G1_1{
+    width: 41%;
+    height: 100%;
+    border-radius: 20px;
+    background-color: rgb(223, 112, 57);
+}
+.M-card__G1_2{
+    width: 43%;
+    height: 95%;
+    margin-top: 5%;
+}
+.M-card__G1_2_all{
+    width: 100%;
+    height: 75%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.M-card__G2_date{
+    width: 100%;
+    height:20%;
+}
+.M-card__G2_titre{
+    width: 100%;
+    height: 20%;
+}
+.M-card__G2_message{
+    width: 100%;
+    height: 50%;
+}
+.M-card__G2_titre .style1{
+    margin: 0;
+    font-size: 20px;
+}
+.M-card__G2_message .style2{
+    margin: 0;
+}
+.M-card__G2_date .style3{
+    margin: 0;
+}
+a{
+    width: 15%;
+    height: 10%;
+    text-decoration: none;
+    background-color: coral;
+    padding: 4%;
+    border-radius: 20px;
+    color: white;
+
+}
+.M-card__G2_lien{
+    width: 100%;
+    height: 15%;
+}
